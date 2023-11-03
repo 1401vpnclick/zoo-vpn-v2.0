@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی","message":"در حال حاضر یکی از بهترین فیلتر شکن به نام Run VPN در کانال  مود شده قرار داده شده است حتما دانلود کنید ","dismissable":false,"dismissTxt":"رد","okTxt":"از تلگرام دانلود ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
